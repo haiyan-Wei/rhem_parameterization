@@ -1,0 +1,13 @@
+HillslopeID,FoliarShrub,FoliarSod,FoliarBunch,GroundLitter,FoliarForbAnnual,GroundBasal,GroundCrust,GroundRock,Slope,SlopeLength,SoilTexture
+plot_sand,10,10,10,10,10,10,10,10,5,50,Sand
+plot_loamy_sand,10,10,10,10,10,10,10,10,5,50,Loamy Sand
+plot_sandy_loam,10,10,10,10,10,10,10,10,5,50,Sandy Loam
+plot_loam,10,10,10,10,10,10,10,10,5,50,Loam
+plot_silt_loam,10,10,10,10,10,10,10,10,5,50,Silt Loam
+plot_silt,10,10,10,10,10,10,10,10,5,50,Silt
+plot_sandy_clay_loam,10,10,10,10,10,10,10,10,5,50,Sandy Clay Loam
+plot_clay_loam,10,10,10,10,10,10,10,10,5,50,Clay Loam
+plot_silty_clay_loam,10,10,10,10,10,10,10,10,5,50,Silty Clay Loam
+plot_sandy_clay,10,10,10,10,10,10,10,10,5,50,Sandy Clay
+plot_silty_clay,10,10,10,10,10,10,10,10,5,50,Silty Clay
+plot_clay,10,10,10,10,10,10,10,10,5,50,Clay
