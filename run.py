@@ -11,8 +11,8 @@ def main():
     rhem_input_file = os.path.join('inputs', 'rhem_inputs.csv')
 
     # Look up tables
-    rhem_soil_particle_lookup_table = os.path.join('inputs', 'rhem_soil_particles.csv')
-    rhem_soil_texture_lookup_table = os.path.join('inputs', 'rhem_soil_texture_groups.csv')
+    rhem_soil_particle_lookup_table = os.path.join('data', 'rhem_soil_particles.csv')
+    rhem_soil_texture_lookup_table = os.path.join('data', 'rhem_soil_texture_groups.csv')
 
     # Create an output folder
     timestamp = datetime.now().strftime("%Y%m%d_%H%M")
