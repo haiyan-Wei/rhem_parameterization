@@ -5,8 +5,9 @@ Your CSV should include columns for:
 - HillslopeID
 - Ground cover percentages (GroundRock, GroundLitter, GroundBasal, GroundCrust)
 - Foliar cover percentages (FoliarSod, FoliarBunch, FoliarForbAnnual, FoliarShrub)
-- Slope
-= Soil texture information
+- Slope in percentage
+- Slope Length
+- Soil texture
 
 ## Files
 
