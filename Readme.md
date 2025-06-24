@@ -1,3 +1,6 @@
+# RHEM Parameterization Tool
+A Python tool for generating RHEM (Rangeland Hydrology and Erosion Model) parameter files from input data. 
+
 ## Input Format
 
 Check out inputs/rhem_inputs.csv for the example input format.
