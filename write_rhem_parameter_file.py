@@ -4,10 +4,8 @@ from datetime import datetime
 
 def write_parfile(output_file, rhem_version, plot_id, df_rhem_parameters, df_rhem_particle):
 
-
-    if rhem_version == "rhem2.4" or rhem_version == "rhem2.5":
-        diams_line = "   DIAMS   =   0.002000 0.010000 0.030000 0.300000 0.200000 ! mm\n"
-        density_line = "   DENSITY =   2.600000 2.650000 1.800000 1.600000 2.650000 ! g/cc\n"
+    diams_line = "   DIAMS   =   0.002000 0.010000 0.030000 0.300000 0.200000 ! mm\n"
+    density_line = "   DENSITY =   2.600000 2.650000 1.800000 1.600000 2.650000 ! g/cc\n"
         
     file_info = (f"! Parameter file for scenario:\n"
                  f"!  RHEM Version:                         {rhem_version}\n"
